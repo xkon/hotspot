@@ -2,7 +2,7 @@
 
 后端：
 
-- 爬虫：qoquery
+- 爬虫：goquery
 - Server：gin
 
 前端：
